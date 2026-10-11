@@ -91,6 +91,15 @@
       "path": "packs/germany/free/de_de/object.json"
     },
     {
+      "id": "germany/free/de_de/others_judge",
+      "country": "germany",
+      "category": "others_judge",
+      "lang": "de_de",
+      "tier": "free",
+      "version": 1,
+      "path": "packs/germany/free/de_de/others_judge.json"
+    },
+    {
       "id": "international/free/en/countries",
       "country": "international",
       "category": "countries",
