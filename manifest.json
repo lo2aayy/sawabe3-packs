@@ -1,166 +1,166 @@
 {
   "packs": [
     {
-      "id": "egypt/free/ar_eg/anagram",
+      "id": "egypt/free/anagram",
       "country": "egypt",
       "category": "anagram",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 4,
-      "path": "packs/egypt/free/ar_eg/anagram.json"
+      "version": 5,
+      "path": "packs/egypt/free/anagram.json"
     },
     {
-      "id": "egypt/free/ar_eg/geography",
+      "id": "egypt/free/geography",
       "country": "egypt",
       "category": "geography",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 3,
-      "path": "packs/egypt/free/ar_eg/geography.json"
+      "version": 4,
+      "path": "packs/egypt/free/geography.json"
     },
     {
-      "id": "egypt/free/ar_eg/knowledge",
+      "id": "egypt/free/knowledge",
       "country": "egypt",
       "category": "knowledge",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 5,
-      "path": "packs/egypt/free/ar_eg/knowledge.json"
+      "version": 6,
+      "path": "packs/egypt/free/knowledge.json"
     },
     {
-      "id": "egypt/free/ar_eg/missing_word",
+      "id": "egypt/free/missing_word",
       "country": "egypt",
       "category": "missing_word",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 5,
-      "path": "packs/egypt/free/ar_eg/missing_word.json"
+      "version": 6,
+      "path": "packs/egypt/free/missing_word.json"
     },
     {
-      "id": "egypt/free/ar_eg/movies",
+      "id": "egypt/free/movies",
       "country": "egypt",
       "category": "movies",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 3,
-      "path": "packs/egypt/free/ar_eg/movies.json"
+      "version": 4,
+      "path": "packs/egypt/free/movies.json"
     },
     {
-      "id": "egypt/free/ar_eg/name3",
+      "id": "egypt/free/name3",
       "country": "egypt",
       "category": "name3",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 3,
-      "path": "packs/egypt/free/ar_eg/name3.json"
+      "version": 4,
+      "path": "packs/egypt/free/name3.json"
     },
     {
-      "id": "egypt/free/ar_eg/object",
+      "id": "egypt/free/object",
       "country": "egypt",
       "category": "object",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 4,
-      "path": "packs/egypt/free/ar_eg/object.json"
+      "version": 5,
+      "path": "packs/egypt/free/object.json"
     },
     {
-      "id": "egypt/free/ar_eg/reversed",
+      "id": "egypt/free/reversed",
       "country": "egypt",
       "category": "reversed",
       "lang": "ar_eg",
       "tier": "free",
-      "version": 7,
-      "path": "packs/egypt/free/ar_eg/reversed.json"
+      "version": 8,
+      "path": "packs/egypt/free/reversed.json"
     },
     {
-      "id": "germany/free/de_de/closest",
+      "id": "germany/free/closest",
       "country": "germany",
       "category": "closest",
       "lang": "de_de",
       "tier": "free",
-      "version": 1,
-      "path": "packs/germany/free/de_de/closest.json"
+      "version": 2,
+      "path": "packs/germany/free/closest.json"
     },
     {
-      "id": "germany/free/de_de/object",
+      "id": "germany/free/object",
       "country": "germany",
       "category": "object",
       "lang": "de_de",
       "tier": "free",
-      "version": 6,
-      "path": "packs/germany/free/de_de/object.json"
+      "version": 7,
+      "path": "packs/germany/free/object.json"
     },
     {
-      "id": "germany/free/de_de/others_judge",
+      "id": "germany/free/others_judge",
       "country": "germany",
       "category": "others_judge",
       "lang": "de_de",
       "tier": "free",
-      "version": 1,
-      "path": "packs/germany/free/de_de/others_judge.json"
+      "version": 2,
+      "path": "packs/germany/free/others_judge.json"
     },
     {
-      "id": "international/free/en/countries",
+      "id": "international/free/countries",
       "country": "international",
       "category": "countries",
       "lang": "en",
       "tier": "free",
-      "version": 2,
-      "path": "packs/international/free/en/countries.json"
+      "version": 3,
+      "path": "packs/international/free/countries.json"
     },
     {
-      "id": "international/free/en/geography",
+      "id": "international/free/geography",
       "country": "international",
       "category": "geography",
       "lang": "en",
       "tier": "free",
-      "version": 4,
-      "path": "packs/international/free/en/geography.json"
+      "version": 5,
+      "path": "packs/international/free/geography.json"
     },
     {
-      "id": "international/free/en/knowledge",
+      "id": "international/free/knowledge",
       "country": "international",
       "category": "knowledge",
       "lang": "en",
       "tier": "free",
-      "version": 3,
-      "path": "packs/international/free/en/knowledge.json"
+      "version": 4,
+      "path": "packs/international/free/knowledge.json"
     },
     {
-      "id": "international/free/en/missing_word",
+      "id": "international/free/missing_word",
       "country": "international",
       "category": "missing_word",
       "lang": "en",
       "tier": "free",
-      "version": 5,
-      "path": "packs/international/free/en/missing_word.json"
+      "version": 6,
+      "path": "packs/international/free/missing_word.json"
     },
     {
-      "id": "international/free/en/movies",
+      "id": "international/free/movies",
       "country": "international",
       "category": "movies",
       "lang": "en",
       "tier": "free",
-      "version": 4,
-      "path": "packs/international/free/en/movies.json"
+      "version": 5,
+      "path": "packs/international/free/movies.json"
     },
     {
-      "id": "international/free/en/name3",
+      "id": "international/free/name3",
       "country": "international",
       "category": "name3",
       "lang": "en",
       "tier": "free",
-      "version": 3,
-      "path": "packs/international/free/en/name3.json"
+      "version": 4,
+      "path": "packs/international/free/name3.json"
     },
     {
-      "id": "international/free/en/reversed",
+      "id": "international/free/reversed",
       "country": "international",
       "category": "reversed",
       "lang": "en",
       "tier": "free",
-      "version": 4,
-      "path": "packs/international/free/en/reversed.json"
+      "version": 5,
+      "path": "packs/international/free/reversed.json"
     }
   ]
 }
