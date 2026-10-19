@@ -97,6 +97,14 @@
       "path": "packs/egypt/free/worldKnowledge.json"
     },
     {
+      "id": "egypt/free/wronglogo",
+      "country": "egypt",
+      "category": "wronglogo",
+      "tier": "free",
+      "version": 2,
+      "path": "packs/egypt/free/wronglogo.json"
+    },
+    {
       "id": "germany/free/closest",
       "country": "germany",
       "category": "closest",
