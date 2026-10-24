@@ -25,20 +25,12 @@
       "path": "packs/egypt/free/generalKnowledge.json"
     },
     {
-      "id": "egypt/free/localInfo",
+      "id": "egypt/free/movies",
       "country": "egypt",
-      "category": "localInfo",
+      "category": "movies",
       "tier": "free",
-      "version": 5,
-      "path": "packs/egypt/free/localInfo.json"
-    },
-    {
-      "id": "egypt/free/name3_nomatch",
-      "country": "egypt",
-      "category": "name3_nomatch",
-      "tier": "free",
-      "version": 5,
-      "path": "packs/egypt/free/name3_nomatch.json"
+      "version": 1,
+      "path": "packs/egypt/free/movies.json"
     },
     {
       "id": "egypt/free/nextWord",
@@ -53,7 +45,7 @@
       "country": "egypt",
       "category": "object",
       "tier": "free",
-      "version": 7,
+      "version": 8,
       "path": "packs/egypt/free/object.json"
     },
     {
@@ -81,14 +73,6 @@
       "path": "packs/egypt/free/scrambled.json"
     },
     {
-      "id": "egypt/free/whoami",
-      "country": "egypt",
-      "category": "whoami",
-      "tier": "free",
-      "version": 1,
-      "path": "packs/egypt/free/whoami.json"
-    },
-    {
       "id": "egypt/free/worldKnowledge",
       "country": "egypt",
       "category": "worldKnowledge",
@@ -101,7 +85,7 @@
       "country": "egypt",
       "category": "wronglogo",
       "tier": "free",
-      "version": 2,
+      "version": 3,
       "path": "packs/egypt/free/wronglogo.json"
     },
     {
