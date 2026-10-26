@@ -37,7 +37,7 @@
       "country": "egypt",
       "category": "nextWord",
       "tier": "free",
-      "version": 9,
+      "version": 10,
       "path": "packs/egypt/free/nextWord.json"
     },
     {
@@ -69,7 +69,7 @@
       "country": "egypt",
       "category": "scrambled",
       "tier": "free",
-      "version": 6,
+      "version": 7,
       "path": "packs/egypt/free/scrambled.json"
     },
     {
