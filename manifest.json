@@ -37,7 +37,7 @@
       "country": "egypt",
       "category": "nextWord",
       "tier": "free",
-      "version": 7,
+      "version": 9,
       "path": "packs/egypt/free/nextWord.json"
     },
     {
@@ -45,7 +45,7 @@
       "country": "egypt",
       "category": "object",
       "tier": "free",
-      "version": 8,
+      "version": 9,
       "path": "packs/egypt/free/object.json"
     },
     {
@@ -89,99 +89,11 @@
       "path": "packs/egypt/free/wronglogo.json"
     },
     {
-      "id": "germany/free/closest",
-      "country": "germany",
-      "category": "closest",
-      "tier": "free",
-      "version": 3,
-      "path": "packs/germany/free/closest.json"
-    },
-    {
-      "id": "germany/free/countryImage",
-      "country": "germany",
-      "category": "countryImage",
-      "tier": "free",
-      "version": 1,
-      "path": "packs/germany/free/countryImage.json"
-    },
-    {
-      "id": "germany/free/generalKnowledge",
-      "country": "germany",
-      "category": "generalKnowledge",
-      "tier": "free",
-      "version": 1,
-      "path": "packs/germany/free/generalKnowledge.json"
-    },
-    {
-      "id": "germany/free/localInfo",
-      "country": "germany",
-      "category": "localInfo",
-      "tier": "free",
-      "version": 1,
-      "path": "packs/germany/free/localInfo.json"
-    },
-    {
-      "id": "germany/free/nextWord",
-      "country": "germany",
-      "category": "nextWord",
-      "tier": "free",
-      "version": 1,
-      "path": "packs/germany/free/nextWord.json"
-    },
-    {
-      "id": "germany/free/object",
-      "country": "germany",
-      "category": "object",
-      "tier": "free",
-      "version": 8,
-      "path": "packs/germany/free/object.json"
-    },
-    {
-      "id": "germany/free/othersJudge",
-      "country": "germany",
-      "category": "othersJudge",
-      "tier": "free",
-      "version": 3,
-      "path": "packs/germany/free/othersJudge.json"
-    },
-    {
-      "id": "germany/free/reversed",
-      "country": "germany",
-      "category": "reversed",
-      "tier": "free",
-      "version": 1,
-      "path": "packs/germany/free/reversed.json"
-    },
-    {
-      "id": "germany/free/scrambled",
-      "country": "germany",
-      "category": "scrambled",
-      "tier": "free",
-      "version": 1,
-      "path": "packs/germany/free/scrambled.json"
-    },
-    {
-      "id": "germany/free/whoami",
-      "country": "germany",
-      "category": "whoami",
-      "tier": "free",
-      "version": 1,
-      "path": "packs/germany/free/whoami.json"
-    },
-    {
-      "id": "germany/free/worldKnowledge",
-      "country": "germany",
-      "category": "worldKnowledge",
-      "tier": "free",
-      "version": 1,
-      "path": "packs/germany/free/worldKnowledge.json"
-    },
-    {
       "id": "international/free/closest",
       "country": "international",
       "category": "closest",
       "tier": "free",
-      "version": 1,
+      "version": 2,
       "path": "packs/international/free/closest.json"
     },
     {
@@ -221,7 +133,7 @@
       "country": "international",
       "category": "nextWord",
       "tier": "free",
-      "version": 7,
+      "version": 8,
       "path": "packs/international/free/nextWord.json"
     },
     {
@@ -237,7 +149,7 @@
       "country": "international",
       "category": "othersJudge",
       "tier": "free",
-      "version": 1,
+      "version": 2,
       "path": "packs/international/free/othersJudge.json"
     },
     {
