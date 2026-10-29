@@ -5,7 +5,7 @@
       "country": "egypt",
       "category": "closest",
       "tier": "free",
-      "version": 2,
+      "version": 3,
       "path": "packs/egypt/free/closest.json"
     },
     {
@@ -13,7 +13,7 @@
       "country": "egypt",
       "category": "countryImage",
       "tier": "free",
-      "version": 3,
+      "version": 4,
       "path": "packs/egypt/free/countryImage.json"
     },
     {
@@ -21,7 +21,7 @@
       "country": "egypt",
       "category": "generalKnowledge",
       "tier": "free",
-      "version": 8,
+      "version": 9,
       "path": "packs/egypt/free/generalKnowledge.json"
     },
     {
@@ -29,7 +29,7 @@
       "country": "egypt",
       "category": "movies",
       "tier": "free",
-      "version": 2,
+      "version": 3,
       "path": "packs/egypt/free/movies.json"
     },
     {
@@ -37,7 +37,7 @@
       "country": "egypt",
       "category": "nextWord",
       "tier": "free",
-      "version": 10,
+      "version": 11,
       "path": "packs/egypt/free/nextWord.json"
     },
     {
@@ -45,7 +45,7 @@
       "country": "egypt",
       "category": "object",
       "tier": "free",
-      "version": 9,
+      "version": 10,
       "path": "packs/egypt/free/object.json"
     },
     {
@@ -53,7 +53,7 @@
       "country": "egypt",
       "category": "othersJudge",
       "tier": "free",
-      "version": 2,
+      "version": 3,
       "path": "packs/egypt/free/othersJudge.json"
     },
     {
@@ -61,7 +61,7 @@
       "country": "egypt",
       "category": "reversed",
       "tier": "free",
-      "version": 10,
+      "version": 11,
       "path": "packs/egypt/free/reversed.json"
     },
     {
@@ -69,7 +69,7 @@
       "country": "egypt",
       "category": "scrambled",
       "tier": "free",
-      "version": 7,
+      "version": 8,
       "path": "packs/egypt/free/scrambled.json"
     },
     {
@@ -77,7 +77,7 @@
       "country": "egypt",
       "category": "worldKnowledge",
       "tier": "free",
-      "version": 6,
+      "version": 7,
       "path": "packs/egypt/free/worldKnowledge.json"
     },
     {
@@ -85,8 +85,96 @@
       "country": "egypt",
       "category": "wronglogo",
       "tier": "free",
-      "version": 4,
+      "version": 5,
       "path": "packs/egypt/free/wronglogo.json"
+    },
+    {
+      "id": "egypt/premium/closest",
+      "country": "egypt",
+      "category": "closest",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/egypt/premium/closest.json"
+    },
+    {
+      "id": "egypt/premium/countryImage",
+      "country": "egypt",
+      "category": "countryImage",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/egypt/premium/countryImage.json"
+    },
+    {
+      "id": "egypt/premium/generalKnowledge",
+      "country": "egypt",
+      "category": "generalKnowledge",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/egypt/premium/generalKnowledge.json"
+    },
+    {
+      "id": "egypt/premium/movies",
+      "country": "egypt",
+      "category": "movies",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/egypt/premium/movies.json"
+    },
+    {
+      "id": "egypt/premium/nextWord",
+      "country": "egypt",
+      "category": "nextWord",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/egypt/premium/nextWord.json"
+    },
+    {
+      "id": "egypt/premium/object",
+      "country": "egypt",
+      "category": "object",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/egypt/premium/object.json"
+    },
+    {
+      "id": "egypt/premium/othersJudge",
+      "country": "egypt",
+      "category": "othersJudge",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/egypt/premium/othersJudge.json"
+    },
+    {
+      "id": "egypt/premium/reversed",
+      "country": "egypt",
+      "category": "reversed",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/egypt/premium/reversed.json"
+    },
+    {
+      "id": "egypt/premium/scrambled",
+      "country": "egypt",
+      "category": "scrambled",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/egypt/premium/scrambled.json"
+    },
+    {
+      "id": "egypt/premium/worldKnowledge",
+      "country": "egypt",
+      "category": "worldKnowledge",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/egypt/premium/worldKnowledge.json"
+    },
+    {
+      "id": "egypt/premium/wronglogo",
+      "country": "egypt",
+      "category": "wronglogo",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/egypt/premium/wronglogo.json"
     },
     {
       "id": "international/free/closest",
