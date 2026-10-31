@@ -29,7 +29,7 @@
       "country": "egypt",
       "category": "movies",
       "tier": "free",
-      "version": 3,
+      "version": 4,
       "path": "packs/egypt/free/movies.json"
     },
     {
@@ -37,7 +37,7 @@
       "country": "egypt",
       "category": "nextWord",
       "tier": "free",
-      "version": 11,
+      "version": 12,
       "path": "packs/egypt/free/nextWord.json"
     },
     {
