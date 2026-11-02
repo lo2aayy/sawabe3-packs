@@ -5,7 +5,7 @@
       "country": "egypt",
       "category": "closest",
       "tier": "free",
-      "version": 3,
+      "version": 4,
       "path": "packs/egypt/free/closest.json"
     },
     {
@@ -13,7 +13,7 @@
       "country": "egypt",
       "category": "countryImage",
       "tier": "free",
-      "version": 4,
+      "version": 5,
       "path": "packs/egypt/free/countryImage.json"
     },
     {
@@ -21,7 +21,7 @@
       "country": "egypt",
       "category": "generalKnowledge",
       "tier": "free",
-      "version": 9,
+      "version": 10,
       "path": "packs/egypt/free/generalKnowledge.json"
     },
     {
@@ -29,7 +29,7 @@
       "country": "egypt",
       "category": "movies",
       "tier": "free",
-      "version": 4,
+      "version": 5,
       "path": "packs/egypt/free/movies.json"
     },
     {
@@ -37,7 +37,7 @@
       "country": "egypt",
       "category": "nextWord",
       "tier": "free",
-      "version": 12,
+      "version": 13,
       "path": "packs/egypt/free/nextWord.json"
     },
     {
@@ -45,7 +45,7 @@
       "country": "egypt",
       "category": "object",
       "tier": "free",
-      "version": 10,
+      "version": 11,
       "path": "packs/egypt/free/object.json"
     },
     {
@@ -53,7 +53,7 @@
       "country": "egypt",
       "category": "othersJudge",
       "tier": "free",
-      "version": 3,
+      "version": 4,
       "path": "packs/egypt/free/othersJudge.json"
     },
     {
@@ -61,7 +61,7 @@
       "country": "egypt",
       "category": "reversed",
       "tier": "free",
-      "version": 11,
+      "version": 12,
       "path": "packs/egypt/free/reversed.json"
     },
     {
@@ -69,7 +69,7 @@
       "country": "egypt",
       "category": "scrambled",
       "tier": "free",
-      "version": 8,
+      "version": 9,
       "path": "packs/egypt/free/scrambled.json"
     },
     {
@@ -77,7 +77,7 @@
       "country": "egypt",
       "category": "worldKnowledge",
       "tier": "free",
-      "version": 7,
+      "version": 8,
       "path": "packs/egypt/free/worldKnowledge.json"
     },
     {
@@ -85,7 +85,7 @@
       "country": "egypt",
       "category": "wronglogo",
       "tier": "free",
-      "version": 5,
+      "version": 6,
       "path": "packs/egypt/free/wronglogo.json"
     },
     {
@@ -93,7 +93,7 @@
       "country": "egypt",
       "category": "closest",
       "tier": "premium",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/premium/closest.json"
     },
     {
@@ -101,7 +101,7 @@
       "country": "egypt",
       "category": "countryImage",
       "tier": "premium",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/premium/countryImage.json"
     },
     {
@@ -109,7 +109,7 @@
       "country": "egypt",
       "category": "generalKnowledge",
       "tier": "premium",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/premium/generalKnowledge.json"
     },
     {
@@ -117,7 +117,7 @@
       "country": "egypt",
       "category": "movies",
       "tier": "premium",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/premium/movies.json"
     },
     {
@@ -125,7 +125,7 @@
       "country": "egypt",
       "category": "nextWord",
       "tier": "premium",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/premium/nextWord.json"
     },
     {
@@ -133,7 +133,7 @@
       "country": "egypt",
       "category": "object",
       "tier": "premium",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/premium/object.json"
     },
     {
@@ -141,7 +141,7 @@
       "country": "egypt",
       "category": "othersJudge",
       "tier": "premium",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/premium/othersJudge.json"
     },
     {
@@ -149,7 +149,7 @@
       "country": "egypt",
       "category": "reversed",
       "tier": "premium",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/premium/reversed.json"
     },
     {
@@ -157,7 +157,7 @@
       "country": "egypt",
       "category": "scrambled",
       "tier": "premium",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/premium/scrambled.json"
     },
     {
@@ -165,7 +165,7 @@
       "country": "egypt",
       "category": "worldKnowledge",
       "tier": "premium",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/premium/worldKnowledge.json"
     },
     {
@@ -173,7 +173,7 @@
       "country": "egypt",
       "category": "wronglogo",
       "tier": "premium",
-      "version": 1,
+      "version": 2,
       "path": "packs/egypt/premium/wronglogo.json"
     },
     {
@@ -181,7 +181,7 @@
       "country": "international",
       "category": "closest",
       "tier": "free",
-      "version": 2,
+      "version": 3,
       "path": "packs/international/free/closest.json"
     },
     {
@@ -189,7 +189,7 @@
       "country": "international",
       "category": "countryImage",
       "tier": "free",
-      "version": 4,
+      "version": 5,
       "path": "packs/international/free/countryImage.json"
     },
     {
@@ -197,39 +197,15 @@
       "country": "international",
       "category": "generalKnowledge",
       "tier": "free",
-      "version": 5,
-      "path": "packs/international/free/generalKnowledge.json"
-    },
-    {
-      "id": "international/free/localInfo",
-      "country": "international",
-      "category": "localInfo",
-      "tier": "free",
       "version": 6,
-      "path": "packs/international/free/localInfo.json"
-    },
-    {
-      "id": "international/free/name3_nomatch",
-      "country": "international",
-      "category": "name3_nomatch",
-      "tier": "free",
-      "version": 5,
-      "path": "packs/international/free/name3_nomatch.json"
-    },
-    {
-      "id": "international/free/nextWord",
-      "country": "international",
-      "category": "nextWord",
-      "tier": "free",
-      "version": 8,
-      "path": "packs/international/free/nextWord.json"
+      "path": "packs/international/free/generalKnowledge.json"
     },
     {
       "id": "international/free/object",
       "country": "international",
       "category": "object",
       "tier": "free",
-      "version": 1,
+      "version": 2,
       "path": "packs/international/free/object.json"
     },
     {
@@ -237,7 +213,7 @@
       "country": "international",
       "category": "othersJudge",
       "tier": "free",
-      "version": 2,
+      "version": 3,
       "path": "packs/international/free/othersJudge.json"
     },
     {
@@ -245,7 +221,7 @@
       "country": "international",
       "category": "reversed",
       "tier": "free",
-      "version": 6,
+      "version": 7,
       "path": "packs/international/free/reversed.json"
     },
     {
@@ -253,24 +229,96 @@
       "country": "international",
       "category": "scrambled",
       "tier": "free",
-      "version": 1,
+      "version": 2,
       "path": "packs/international/free/scrambled.json"
-    },
-    {
-      "id": "international/free/whoami",
-      "country": "international",
-      "category": "whoami",
-      "tier": "free",
-      "version": 1,
-      "path": "packs/international/free/whoami.json"
     },
     {
       "id": "international/free/worldKnowledge",
       "country": "international",
       "category": "worldKnowledge",
       "tier": "free",
-      "version": 6,
+      "version": 7,
       "path": "packs/international/free/worldKnowledge.json"
+    },
+    {
+      "id": "international/free/wronglogo",
+      "country": "international",
+      "category": "wronglogo",
+      "tier": "free",
+      "version": 1,
+      "path": "packs/international/free/wronglogo.json"
+    },
+    {
+      "id": "international/premium/closest",
+      "country": "international",
+      "category": "closest",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/international/premium/closest.json"
+    },
+    {
+      "id": "international/premium/countryImage",
+      "country": "international",
+      "category": "countryImage",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/international/premium/countryImage.json"
+    },
+    {
+      "id": "international/premium/generalKnowledge",
+      "country": "international",
+      "category": "generalKnowledge",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/international/premium/generalKnowledge.json"
+    },
+    {
+      "id": "international/premium/object",
+      "country": "international",
+      "category": "object",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/international/premium/object.json"
+    },
+    {
+      "id": "international/premium/othersJudge",
+      "country": "international",
+      "category": "othersJudge",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/international/premium/othersJudge.json"
+    },
+    {
+      "id": "international/premium/reversed",
+      "country": "international",
+      "category": "reversed",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/international/premium/reversed.json"
+    },
+    {
+      "id": "international/premium/scrambled",
+      "country": "international",
+      "category": "scrambled",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/international/premium/scrambled.json"
+    },
+    {
+      "id": "international/premium/worldKnowledge",
+      "country": "international",
+      "category": "worldKnowledge",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/international/premium/worldKnowledge.json"
+    },
+    {
+      "id": "international/premium/wronglogo",
+      "country": "international",
+      "category": "wronglogo",
+      "tier": "premium",
+      "version": 1,
+      "path": "packs/international/premium/wronglogo.json"
     }
   ]
 }
