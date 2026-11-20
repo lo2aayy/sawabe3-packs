@@ -37,7 +37,7 @@
       "country": "egypt",
       "category": "nextWord",
       "tier": "free",
-      "version": 13,
+      "version": 14,
       "path": "packs/egypt/free/nextWord.json"
     },
     {
@@ -45,7 +45,7 @@
       "country": "egypt",
       "category": "object",
       "tier": "free",
-      "version": 11,
+      "version": 12,
       "path": "packs/egypt/free/object.json"
     },
     {
@@ -61,7 +61,7 @@
       "country": "egypt",
       "category": "reversed",
       "tier": "free",
-      "version": 12,
+      "version": 13,
       "path": "packs/egypt/free/reversed.json"
     },
     {
@@ -69,7 +69,7 @@
       "country": "egypt",
       "category": "scrambled",
       "tier": "free",
-      "version": 9,
+      "version": 12,
       "path": "packs/egypt/free/scrambled.json"
     },
     {
@@ -93,7 +93,7 @@
       "country": "egypt",
       "category": "closest",
       "tier": "premium",
-      "version": 2,
+      "version": 3,
       "path": "packs/egypt/premium/closest.json"
     },
     {
@@ -109,7 +109,7 @@
       "country": "egypt",
       "category": "generalKnowledge",
       "tier": "premium",
-      "version": 2,
+      "version": 4,
       "path": "packs/egypt/premium/generalKnowledge.json"
     },
     {
@@ -125,7 +125,7 @@
       "country": "egypt",
       "category": "nextWord",
       "tier": "premium",
-      "version": 2,
+      "version": 3,
       "path": "packs/egypt/premium/nextWord.json"
     },
     {
@@ -133,7 +133,7 @@
       "country": "egypt",
       "category": "object",
       "tier": "premium",
-      "version": 2,
+      "version": 3,
       "path": "packs/egypt/premium/object.json"
     },
     {
@@ -141,7 +141,7 @@
       "country": "egypt",
       "category": "othersJudge",
       "tier": "premium",
-      "version": 2,
+      "version": 4,
       "path": "packs/egypt/premium/othersJudge.json"
     },
     {
@@ -149,7 +149,7 @@
       "country": "egypt",
       "category": "reversed",
       "tier": "premium",
-      "version": 2,
+      "version": 5,
       "path": "packs/egypt/premium/reversed.json"
     },
     {
@@ -157,7 +157,7 @@
       "country": "egypt",
       "category": "scrambled",
       "tier": "premium",
-      "version": 2,
+      "version": 5,
       "path": "packs/egypt/premium/scrambled.json"
     },
     {
@@ -165,7 +165,7 @@
       "country": "egypt",
       "category": "worldKnowledge",
       "tier": "premium",
-      "version": 2,
+      "version": 4,
       "path": "packs/egypt/premium/worldKnowledge.json"
     },
     {
@@ -173,7 +173,7 @@
       "country": "egypt",
       "category": "wronglogo",
       "tier": "premium",
-      "version": 2,
+      "version": 4,
       "path": "packs/egypt/premium/wronglogo.json"
     },
     {
@@ -229,7 +229,7 @@
       "country": "international",
       "category": "scrambled",
       "tier": "free",
-      "version": 2,
+      "version": 4,
       "path": "packs/international/free/scrambled.json"
     },
     {
@@ -269,7 +269,7 @@
       "country": "international",
       "category": "generalKnowledge",
       "tier": "premium",
-      "version": 1,
+      "version": 2,
       "path": "packs/international/premium/generalKnowledge.json"
     },
     {
@@ -293,7 +293,7 @@
       "country": "international",
       "category": "reversed",
       "tier": "premium",
-      "version": 1,
+      "version": 2,
       "path": "packs/international/premium/reversed.json"
     },
     {
@@ -301,7 +301,7 @@
       "country": "international",
       "category": "scrambled",
       "tier": "premium",
-      "version": 1,
+      "version": 3,
       "path": "packs/international/premium/scrambled.json"
     },
     {
@@ -309,7 +309,7 @@
       "country": "international",
       "category": "worldKnowledge",
       "tier": "premium",
-      "version": 1,
+      "version": 3,
       "path": "packs/international/premium/worldKnowledge.json"
     },
     {
@@ -317,7 +317,7 @@
       "country": "international",
       "category": "wronglogo",
       "tier": "premium",
-      "version": 1,
+      "version": 2,
       "path": "packs/international/premium/wronglogo.json"
     }
   ]
